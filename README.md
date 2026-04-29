@@ -261,8 +261,7 @@ This project strengthened practical understanding of:
 
 ![Prediction Example 3](Images/test4.png)
 
-### Dataset Visualization
-![Dataset Overview](Images/dataset_presentation.png)
+
 ---
 
 ## License
