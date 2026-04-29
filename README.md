@@ -248,20 +248,21 @@ This project strengthened practical understanding of:
 
 ---
 
+
 ## Screenshots
 
-### Demo Interface:
+### User Interface
+![Intent Detection UI](Images/test1.png)
 
-```text
-Add project screenshots inside Images/ folder
-```
+### Additional Predictions
+![Prediction Example 1](Images/test2.png)
 
-Example:
+![Prediction Example 2](Images/test3.png)
 
-```md
-![Demo](Images/demo.png)
-```
+![Prediction Example 3](Images/test4.png)
 
+### Dataset Visualization
+![Dataset Overview](Images/dataset_presentation.png)
 ---
 
 ## License
